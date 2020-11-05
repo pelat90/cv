@@ -1,88 +1,101 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sebastian Blanco's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sebastian Blanco
+Software Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="sebastianblancogonz@gmail.com">sebastianblancogonz@gmail.com</a>
+  | <a href="https://sebasblanco.com">My website</a> | <a href="https://www.linkedin.com/in/sebasblancogonz/?locale=en_US">LinkedIn</a> | <a href="https://github.com/sebasblancogonz">Github</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Developing microservices for Europcar
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+RESTful microservice development.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+New technologies, music, science and paranormal activities.
+
+
+## Work experience
+
+`06/2018-12/2018` 
+### Junior Software Developer
+__GFI Levante, Alicante (Spain)__
+A project for _Le Ministère de la Culture_, France. Development and maintenance of web applications, mostly build in **Java** (**Spring Framework** and Struts 2). It was an interesting project which helped me to understand the basis of software development.
+
+`12/2018–09/2019`
+### Software Developer
+__Altia, Alicante (Spain)__
+As a member of the PTR team (Real Time Platform), I had to do different tasks, like optimize and migrate services which were deployed on Websphere and Weblogic to Openshift. My job was to improve those services along the team and lower the response time of them, since they needed the information as updated as possible, with the minimum latency possible. Those services received a good amount of requests.
+Technology stack:
+* Java 7/8
+* Spring Boot
+* Maven
+* Oracle SQL Developer
+* Git
+* Bamboo for CI
+* SonarQube 
+* Confluence for documentation
+* Jira for tickets
+
+`09/2019–Present`
+### Software Developer
+__Goldcar, Alicante (Spain)__
+Migration of Goldcar's vehicle availability calculation system using microservices. Project from scratch using scheduled tasks, internal caches (spring cache) and redis databases. Also working on a translator between Europcar's different systems related to booking workflows.
+Technology stack:
+* Java 11
+* Spring Boot
+* Akka
+* Groovy for integration and unit tests
+* Gatling for performance and stress tests
+* PACT
+* JUnit
+* Redis databases
+* SQL Developer
+* Git (Bitbucket and Gitlab)
+* Jira for tickets
+* Notions for documentation
+* Gradle
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`09/2016–05/2018`
+### Web Applications Development
+__IES Macià Abela, Crevillente (Spain)__
+* Client Side Web Development, JavaScript.
+* Server Side Web Development, PHP.
+* Design of Web Interfaces, HTML5+CSS.
+* Databases, SQL.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2010–2012`
+### Bachelor's degree Humanities and Social Sciences
+__IES Canónigo Manchón, Crevillente (Spain)__
 
 
-## Awards
+## Personal skills
 
-`2012`
-President, *Royal Society*, London, UK
+### Mother tongue(s)
+Spanish
 
-Associate, *French Academy of Science*, Paris, France
+### Foreign languages
+English with a fluent writing, speaking and listening level. I work with teammates from France and we have to do the dailies, refinements and so on in English.
 
+### Communitation skills
+Working with more people with different roles, but that also were/are part of an application life cycle, have made communication something crucial on a daily basis. Teamwork is one of the most important things for me and this is why I like to contribute to create a healthy and pleasant work environment.
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+### Organisational skills
+Being part of projects with several applications, have helped me to develop my organisational capabilities, teaching me how to manage time and tasks when the work load is high.
+Also being the main developer of a feature/service, also helped me to keep everything under control and well documented.
 
 <!-- ### Footer
 
