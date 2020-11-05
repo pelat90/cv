@@ -99,6 +99,4 @@ Also being the main developer of a feature/service, also helped me to keep every
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: Nov 2020 -->
