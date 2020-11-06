@@ -45,15 +45,15 @@ My job was to improve those services along the team and lower the response time 
 since they needed the information as updated as possible, with the minimum latency possible. 
 Those services received a good amount of requests.
 Technology stack:
-* Java 7/8
-* Spring Boot
-* Maven
-* Oracle SQL Developer
-* Git
-* Bamboo for CI
-* SonarQube 
-* Confluence for documentation
-* Jira for tickets
+- Java 7/8
+- Spring Boot
+- Maven
+- Oracle SQL Developer
+- Git
+- Bamboo for CI
+- SonarQube 
+- Confluence for documentation
+- Jira for tickets
 
 `09/2019–Present`
 ### __Software Developer__
@@ -62,19 +62,19 @@ Migration of Goldcar's vehicle availability calculation system using microservic
 Project from scratch using scheduled tasks, internal caches (spring cache) and redis databases. 
 Also working on a translator between Europcar's different systems related to booking workflows.
 Technology stack:
-* Java 11
-* Spring Boot
-* Akka
-* Groovy for integration and unit tests
-* Gatling for performance and stress tests
-* PACT
-* JUnit
-* Redis databases
-* SQL Developer
-* Git (Bitbucket and Gitlab)
-* Jira for tickets
-* Notions for documentation
-* Gradle
+- Java 11
+- Spring Boot
+- Akka
+- Groovy for integration and unit tests
+- Gatling for performance and stress tests
+- PACT
+- JUnit
+- Redis databases
+- SQL Developer
+- Git (Bitbucket and Gitlab)
+- Jira for tickets
+- Notions for documentation
+- Gradle
 
 
 ## Education
@@ -82,10 +82,10 @@ Technology stack:
 `09/2016–05/2018`
 ### __Web Applications Development__
 ### IES Macià Abela, Crevillente (Spain)
-* Client Side Web Development, JavaScript.
-* Server Side Web Development, PHP.
-* Design of Web Interfaces, HTML5+CSS.
-* Databases, SQL.
+- Client Side Web Development, JavaScript.
+- Server Side Web Development, PHP.
+- Design of Web Interfaces, HTML5+CSS.
+- Databases, SQL.
 
 `2010–2012`
 ### __Bachelor's degree Humanities and Social Sciences__
