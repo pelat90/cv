@@ -28,7 +28,7 @@ New technologies, music, science and paranormal activities.
 ## Work experience
 
 `06/2018-12/2018` 
-__*Junior Software Developer*__
+__*Junior Software Developer*__<br>
 __GFI Levante, Alicante (Spain)__
 
 A project for _Le Ministère de la Culture_, France. Development and maintenance of web applications, 
@@ -36,7 +36,7 @@ mostly build in **Java** (**Spring Framework** and Struts 2). It was an interest
 which helped me to understand the basis of software development.
 
 `12/2018–09/2019`
-__*Software Developer*__
+__*Software Developer*__<br>
 __Altia, Alicante (Spain)__
 
 As a member of the PTR team (Real Time Platform), I had to do different tasks, 
@@ -56,7 +56,7 @@ Technology stack:
 - Jira for tickets
 
 `09/2019–Present`
-__*Software Developer*__
+__*Software Developer*__<br>
 __Goldcar, Alicante (Spain)__
 Migration of Goldcar's vehicle availability calculation system using microservices. 
 Project from scratch using scheduled tasks, internal caches (spring cache) and redis databases. 
@@ -80,7 +80,7 @@ Technology stack:
 ## Education
 
 `09/2016–05/2018`
-__Web Applications Development__
+__Web Applications Development__<br>
 __IES Macià Abela, Crevillente (Spain)__
 - Client Side Web Development, JavaScript.
 - Server Side Web Development, PHP.
@@ -88,7 +88,7 @@ __IES Macià Abela, Crevillente (Spain)__
 - Databases, SQL.
 
 `2010–2012`
-__Bachelor's degree Humanities and Social Sciences__
+__Bachelor's degree Humanities and Social Sciences__<br>
 __IES Canónigo Manchón, Crevillente (Spain)__
 
 
