@@ -6,7 +6,7 @@ title: Sebastian Blanco's CV
 Software Developer
 
 <div id="webaddress">
-<a href="mailto:sebastianblancogonz@gmail.com" target="_blank">sebastianblancogonz@gmail.com</a>
+<a href="mailto:sebastianblancogonz@gmail.com">sebastianblancogonz@gmail.com</a>
   | <a href="https://sebasblanco.com" target="_blank">My website</a> | <a href="https://www.linkedin.com/in/sebasblancogonz/?locale=en_US" target="_blank">LinkedIn</a> | <a href="https://github.com/sebasblancogonz" target="_blank">Github</a>
 </div>
 
