@@ -58,6 +58,7 @@ Technology stack:
 `09/2019–Present`
 __*Software Developer*__<br>
 __Goldcar, Alicante (Spain)__
+
 Migration of Goldcar's vehicle availability calculation system using microservices. 
 Project from scratch using scheduled tasks, internal caches (spring cache) and redis databases. 
 Also working on a translator between Europcar's different systems related to booking workflows.
