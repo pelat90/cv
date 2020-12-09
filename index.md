@@ -7,8 +7,8 @@ Software Developer
 
 <div id="webaddress">
 <a href="mailto:sebastianblancogonz@gmail.com">sebastianblancogonz@gmail.com</a>
-  | <a href="https://sebasblanco.com" target="_blank">My website</a> | <a href="https://www.linkedin.com/in/sebasblancogonz/?locale=en_US" target="_blank">LinkedIn</a> | <a href="https://github.com/sebasblancogonz" target="_blank">Github</a>
-</div> | <a href="tel:+34622719218">Phone: +34622719218</a>
+  | <a href="https://sebasblanco.com" target="_blank">My website</a> | <a href="https://www.linkedin.com/in/sebasblancogonz/?locale=en_US" target="_blank">LinkedIn</a> | <a href="https://github.com/sebasblancogonz" target="_blank">Github</a> | Phone: <a href="tel:+34622719218">+34622719218</a>
+</div>
 
 
 ## Currently
