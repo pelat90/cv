@@ -27,33 +27,48 @@ New technologies, music, science and paranormal activities.
 
 ## Work experience
 
-`06/2018-12/2018` 
-__*Junior Software Developer*__<br>
-__GFI Levante, Alicante (Spain)__
+`06/2021–Present`
+__*Software Engineer*__<br>
+__Europcar Mobility Group, Alicante (Spain)__
 
-A project for _Le Ministère de la Culture_, France. Development and maintenance of web applications, 
-mostly build in **Java** (**Spring Framework** and Struts 2). It was an interesting project 
-which helped me to understand the basis of software development.
-
-`12/2018–09/2019`
-__*Software Developer*__<br>
-__Altia, Alicante (Spain)__
-
-As a member of the PTR team (Real Time Platform), I had to do different tasks, 
-like optimize and migrate services which were deployed on Websphere and Weblogic to Openshift. 
-My job was to improve those services along the team and lower the response time of them, 
-since they needed the information as updated as possible, with the minimum latency possible. 
-Those services received a good amount of requests.
+Migration of Goldcar's vehicle availability calculation system using microservices. 
+Project from scratch using scheduled tasks, internal caches (spring cache) and redis databases. 
+Also working on a translator between Europcar's different systems related to booking workflows.
 Technology stack:
-- Java 7/8
+- Java 11
 - Spring Boot
-- Maven
-- Oracle SQL Developer
-- Git
-- Bamboo for CI
-- SonarQube 
-- Confluence for documentation
+- Akka
+- Groovy for integration and unit tests
+- Gatling for performance and stress tests
+- PACT
+- JUnit
+- Redis databases
+- SQL Developer
+- Git (Bitbucket and Gitlab)
 - Jira for tickets
+- Notions for documentation
+- Gradle
+
+`01/2021–06/2021`
+__*Software Engineer*__<br>
+__Lastminute.com, Madrid (Spain)__
+
+Part of the Hotel Supply area integrating new providers (such as booking.com, expedia, agoda, etc.) working with java and kotlin in the back-end using hexagonal architecture. 
+Our work involved the whole funnel, from the results page to payment.
+
+Tech stack:
+- Java 14
+- Kotlin
+- Spring Boot
+- Spinnaker
+- Gitlab CI
+- AssertK
+- MockK
+- JUnit 5
+- MySQL
+- Grafana
+- Graylog
+- Git (master only)
 
 `09/2019–Present`
 __*Software Developer*__<br>
@@ -77,6 +92,33 @@ Technology stack:
 - Notions for documentation
 - Gradle
 
+`12/2018–09/2019`
+__*Software Developer*__<br>
+__Altia, Alicante (Spain)__
+
+As a member of the PTR team (Real Time Platform), I had to do different tasks, 
+like optimize and migrate services which were deployed on Websphere and Weblogic to Openshift. 
+My job was to improve those services along the team and lower the response time of them, 
+since they needed the information as updated as possible, with the minimum latency possible. 
+Those services received a good amount of requests.
+Technology stack:
+- Java 7/8
+- Spring Boot
+- Maven
+- Oracle SQL Developer
+- Git
+- Bamboo for CI
+- SonarQube 
+- Confluence for documentation
+- Jira for ticke
+
+`06/2018-12/2018` 
+__*Junior Software Developer*__<br>
+__GFI Levante, Alicante (Spain)__
+
+A project for _Le Ministère de la Culture_, France. Development and maintenance of web applications, 
+mostly build in **Java** (**Spring Framework** and Struts 2). It was an interesting project 
+which helped me to understand the basis of software development.
 
 ## Education
 
