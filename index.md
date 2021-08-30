@@ -69,7 +69,7 @@ Tech stack:
 - Graylog
 - Git (master only)
 
-`09/2019–Present`
+`09/2019–12/2020`
 __*Software Developer*__<br>
 __Goldcar, Alicante (Spain)__
 
