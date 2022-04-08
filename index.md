@@ -3,7 +3,7 @@ layout: cv
 title: Sebastian Blanco's CV
 ---
 # Sebastian Blanco
-Software Developer
+Tech Lead
 
 <div id="webaddress">
 <a href="mailto:sebastianblancogonz@gmail.com">sebastianblancogonz@gmail.com</a> | <a href="https://www.linkedin.com/in/sebasblancogonz/?locale=en_US" target="_blank">LinkedIn</a> | <a href="https://github.com/sebasblancogonz" target="_blank">Github</a> | Phone: <a href="tel:+34611183163">+34611183163</a>
@@ -26,7 +26,44 @@ New technologies, music, science and paranormal activities.
 
 ## Work experience
 
-`06/2021–Present`
+`02/2022–Present`
+__*Tech Lead*__<br>
+__Europcar Mobility Group, Alicante (Spain)__
+
+My team's scopes are all of the processes involved before the customer's pick up of their rented vehicles, trying to make them autonomous through this journey. Our aim is to try to have a higher number of registered users in our system, digitalizing their personal documents to save time on their pick up. 
+Technology stack:
+- Java 17
+- Spring Boot
+- Onfido
+- Groovy for integration and unit tests
+- JUnit
+- No-SQL DDBB
+- Git (Gitlab)
+- Jira for tickets
+- Confluence
+- Gradle
+
+`10/2021–02/2022`
+__*Software Engineer*__<br>
+__Europcar Mobility Group, Alicante (Spain)__
+
+Member of the Billing & Payments team, I was contributing to build the automatic payment system for Goldcar and Europcar.
+This system could handle scheduled payments execution.
+Technology stack:
+- Java 11
+- Spring Boot
+- Kafka
+- Groovy for integration and unit tests
+- Gatling for performance and stress tests
+- PACT
+- JUnit
+- SQL DDBB
+- Git (Gitlab)
+- Jira for tickets
+- Confluence
+- Gradle
+
+`06/2021–10/2021`
 __*Software Engineer*__<br>
 __Europcar Mobility Group, Alicante (Spain)__
 
