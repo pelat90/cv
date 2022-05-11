@@ -3,7 +3,7 @@ layout: cv
 title: Sebastian Blanco's CV
 ---
 # Sebastian Blanco
-Tech Lead
+Software Engineer
 
 <div id="webaddress">
 <a href="mailto:sebastianblancogonz@gmail.com">sebastianblancogonz@gmail.com</a> | <a href="https://www.linkedin.com/in/sebasblancogonz/?locale=en_US" target="_blank">LinkedIn</a> | <a href="https://github.com/sebasblancogonz" target="_blank">Github</a> | Phone: <a href="tel:+34611183163">+34611183163</a>
@@ -26,10 +26,10 @@ New technologies, music, science and paranormal activities.
 
 ## Work experience
 
-`02/2022–Present`
-__*Tech Lead*__<br>
+`10/2019–Present`
+__*Software Engineer*__<br>
 __Europcar Mobility Group, Alicante (Spain)__
-
+`02/2022–Present`
 My team's scopes are all of the processes involved before the customer's pick up of their rented vehicles, trying to make them autonomous through this journey. Our aim is to try to have a higher number of registered users in our system, digitalizing their personal documents to save time on their pick up. 
 Technology stack:
 - Java 17
@@ -43,10 +43,7 @@ Technology stack:
 - Confluence
 - Gradle
 
-`10/2021–02/2022`
-__*Software Engineer*__<br>
-__Europcar Mobility Group, Alicante (Spain)__
-
+`11/2021–02/2022`
 Member of the Billing & Payments team, I was contributing to build the automatic payment system for Goldcar and Europcar.
 This system could handle scheduled payments execution.
 Technology stack:
@@ -63,10 +60,7 @@ Technology stack:
 - Confluence
 - Gradle
 
-`06/2021–10/2021`
-__*Software Engineer*__<br>
-__Europcar Mobility Group, Alicante (Spain)__
-
+`10/2019–11/2021`
 Migration of Goldcar's vehicle availability calculation system using microservices. 
 Project from scratch using scheduled tasks, internal caches (spring cache) and redis databases. 
 Also working on a translator between Europcar's different systems related to booking workflows.
@@ -86,7 +80,7 @@ Technology stack:
 - Gradle
 
 `01/2021–06/2021`
-__*Software Engineer*__<br>
+__*Software Engineer* (Contractor)__<br>
 __Lastminute.com, Madrid (Spain)__
 
 Part of the Hotel Supply area integrating new providers (such as booking.com, expedia, agoda, etc.) working with java and kotlin in the back-end using hexagonal architecture. 
@@ -105,28 +99,6 @@ Tech stack:
 - Grafana
 - Graylog
 - Git (master only)
-
-`09/2019–12/2020`
-__*Software Developer*__<br>
-__Goldcar, Alicante (Spain)__
-
-Migration of Goldcar's vehicle availability calculation system using microservices. 
-Project from scratch using scheduled tasks, internal caches (spring cache) and redis databases. 
-Also working on a translator between Europcar's different systems related to booking workflows.
-Technology stack:
-- Java 11
-- Spring Boot
-- Akka
-- Groovy for integration and unit tests
-- Gatling for performance and stress tests
-- PACT
-- JUnit
-- Redis databases
-- SQL Developer
-- Git (Bitbucket and Gitlab)
-- Jira for tickets
-- Notions for documentation
-- Gradle
 
 `12/2018–09/2019`
 __*Software Developer*__<br>
