@@ -29,14 +29,14 @@ __Master degree in Computer Engineering.__<br>
 __Universitat d'Alacant, San Vicent Del Raspeig (Spain)__
 
 `2016-2017`
-Master's degree in Academic Staff of Secondary Education and High School.__<br>
+__Master's degree in Academic Staff of Secondary Education and High School.__<br>
 __Universitat d'Alacant, San Vicent Del Raspeig (Spain)__
 
 ## Work experience
 
 `03/2019–Present`
 __*Software Engineer*__<br>
-__Goldcar, Alicante (Spain)__
+__Goldcar, Alicante (Spain)__<br>
 `02/2020–Present`
 Billing & Payments<br>
 Technologies:<br>
