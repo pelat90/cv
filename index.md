@@ -38,7 +38,7 @@ __Universitat d'Alacant, San Vicent Del Raspeig (Spain)__
 __*Software Engineer*__<br>
 __Goldcar, Alicante (Spain)__<br>
 `02/2020–Present`
-Billing & Payments<br>
+In Billing & Payments team, I have designed and implemented different systems to improve and automate internal business processes. In the payment domain, I helped build a new rental commission system for the users of the internal application for car renting. I also contributed to design and develop an automatic payment system. In billing, I designed and helped implement a system to generate and notify billing reports.<br>
 Technologies:<br>
 - Java 11
 - Spring Boot
@@ -52,7 +52,7 @@ Technologies:<br>
 - Confluence
 
 `12/2019–02/2020`
-Kiosk<br>
+In the Kiosk team I developed an event-based system to allow reset POS terminals when payment transactions could not be completed for any reason<br>
 Technologies:<br>
 - Java 11
 - Spring Boot
@@ -67,7 +67,7 @@ Technologies:<br>
 - Confluence
 
 `03/2019–12/2019`
-Click'N'Go<br>
+As a member of the ClickNGo team I helped develop microservices that implemented the integration with a keyless car driving software<br>
 Technologies:<br>
 - Java 8
 - Spring Boot
